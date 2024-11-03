@@ -1,8 +1,4 @@
 {
- "theme_color": "#FFFFFF",
- "name": "AQUARIOS POUSADA I",
- "start_url": "index.htm?installed=true",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
+ "name": "AQUARIOS POUSADA I",
  "background_color": "#FFFFFF"
 }
